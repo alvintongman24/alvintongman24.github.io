@@ -1,0 +1,93 @@
+body{
+    background-image:url('fashion4.jpg'); 
+\	width: 100%;
+}
+
+a img{
+    position: relative;
+    
+    left:2px;
+    top:1px;
+    height: 100px;
+     width: 150px;
+}
+
+.navbar navbar-expand-md p-1{
+	position:fixed;
+}
+
+nav p {
+	
+    font-family: Comic Sans Ms;  
+    color: red;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    
+}
+
+nav{
+    position:fixed;
+    background-color: rgb(9, 60, 77); 
+    height: 170px;
+    width: 100%;
+    margin:0;
+    border:0;
+    padding:0;
+    display:block;
+}
+
+.nav.navbar-nav.ms-auto li a{
+	
+   color:brown;
+   border: 5px solid gray;
+   height: 80px;
+   width: 160px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+  font-size: large;
+  padding-left: 15px;
+  
+}
+
+
+
+    
+
+
+
+.renua row{
+    background-color: black;
+    width: auto;
+    color: orange;
+}
+
+.renua img{
+    width: 400px;
+    height: 350px;
+    
+
+}
+
+.renua h3{
+    text-align: center;
+    color:bisques
+}
+
+.col-2{
+    background-color: bisque;
+    display: inline-block;
+    
+}
+
+.emma-row{
+    background-color: black;
+    color: rgb(10, 80, 77);
+    
+    
+}
+
+
+h2{
+	text-align:center;
+	color:white;
+}
